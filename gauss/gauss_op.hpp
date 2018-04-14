@@ -11,8 +11,8 @@
  **/
 
 
-#ifndef __GAUSS_OP_H
-#define __GAUSS_OP_H
+#ifndef __GAUSS_OP_HPP__
+#define __GAUSS_OP_HPP__
 
 #include <fstream>
 #include <iostream>
